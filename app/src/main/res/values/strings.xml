@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DuolingoWordsearch</string>
+    <string name="challenge_json">https://s3.amazonaws.com/duolingo-data/s3/js2/find_challenges.txt</string>
+    <string name="find_the_translation_of_the_word">Find the translations of the word</string>
+    <string name="show_word_dialog_title">Congratulations! You\'ve found all the translations!</string>
+    <string name="show_word_dialog_message">Why don\'t you try another one?</string>
+    <string name="next_word">Next Word</string>
+    <string name="show_finish_dialog_title">You\'ve completed all the problems!</string>
+    <string name="show_finish_dialog_message">Good for you!</string>
+    <string name="reset">reset</string>
+    <string name="count">count</string>
+</resources>
